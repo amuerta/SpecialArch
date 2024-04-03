@@ -1,0 +1,15 @@
+= Special Architecture Project
+
+== Branch Structure Overview 
+- main - release candidates or complete program builds.
+- swll - (software low  level) STM32IDE implementation in Low Level language.
+- swhl - (software high level) Machine-to-Human interface implementation.
+- test - testing units and *NOERR* system.
+- docs - project specifications and documentation.
+
+== Used Services
+- Mathlab Simulink
+- git cli
+- Jira 
+- neovim
+
