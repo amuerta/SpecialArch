@@ -1,0 +1,9 @@
+Name:               Angle Reading from Sensors
+Number:             REQ-002
+Author:             Shpak Myroslav (amuerta)
+CreationDate:       03.04.2024 :: UTC/GMT+3 16:21
+LastModifiedDate:   03.04.2024 :: UTC/GMT+3 16:23
+LastEditor:         Shpak Myroslav (amuerta)
+Reviewer:           Dmytro Humeniy
+RequirementContent: This requirement involves reading the angle of rotation of external sensors connected to the hardware and software complex. The system must be able to accurately capture and process angular data from these sensors. The obtained angle values ​​must be reliable and stable for effective control of the servo motor.
+RequirementStatus:  Open

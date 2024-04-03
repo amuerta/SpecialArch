@@ -1,0 +1,9 @@
+Name:               Angular Velocity Reading from Sensors
+Number:             REQ-003
+Author:             Shpak Myroslav (amuerta)
+CreationDate:       03.04.2024 :: UTC/GMT+3 16:21
+LastModifiedDate:   03.04.2024 :: UTC/GMT+3 16:23
+LastEditor:         Shpak Myroslav (amuerta)
+Reviewer:           Dmytro Humeniy
+RequirementContent: This requirement provides for the need to read angular velocity data from external sensors integrated with the hardware and software complex. The system must be able to capture the rate of change of the angle accurately and provide real-time updates of the angular rate. This information is key to dynamic control and monitoring of servo motor performance.
+RequirementStatus:  Open

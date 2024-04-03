@@ -1,0 +1,9 @@
+Name:               Control Interface Specification
+Number:             HW_REQ-001
+Author:             Shpak Myroslav (amuerta)
+CreationDate:       03.04.2024 :: UTC/GMT+3 16:21
+LastModifiedDate:   03.04.2024 :: UTC/GMT+3 16:23
+LastEditor:         Shpak Myroslav (amuerta)
+Reviewer:           Dmytro Humeniy
+RequirementBody:    Detailed description of control interface requirements, including technical specifications, standards compliance, and other specifications.
+RequirementStatus:  Open
