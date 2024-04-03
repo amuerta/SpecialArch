@@ -1,0 +1,18 @@
+= DOCUMENTATION
+
+== Formated Requirements located in:
+  
+  ./Hardware_Requirements/
+
+.All Requirements have following format:
+
+  HW_REQ-<NUMBER>-<NAME>.txt
+
+
+== Formated Specifications located in:
+
+ ./Requirement_Specification/
+
+.All Specifications have following format
+
+  REQ-<NUMBER>-<NAME>.txt
