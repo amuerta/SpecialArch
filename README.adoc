@@ -43,13 +43,13 @@ make run
 == PANEL APPEARANCE
 
 .panel metrics page 
-image::panelsrc1[]
+image::panelscr1.png[]
 
 .panel control page
-image::panelsrc2[]
+image::panelscr2.png[]
 
 .panel settings page
-image::panelsrc3[]
+image::panelscr3.png[]
 
 .panel light theme
-image::panelsrc4[]
+image::panelscr4.png[]
