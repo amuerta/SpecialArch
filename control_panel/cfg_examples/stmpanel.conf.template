@@ -1,0 +1,3 @@
+CONFIG.InterfaceFilePath:       ./STM32F4.interface
+CONFIG.InterfaceRequestSpeed:   5
+CONFIG.UseLightTheme:           true
