@@ -1,0 +1,9 @@
+Name:               System firmware requirement
+Number:             SR_REQ-003
+Author:             Shpak Myroslav (amuerta)
+CreationDate:       13.06.2024 :: UTC/GMT+3 13:39
+LastModifiedDate:   13.06.2024 :: UTC/GMT+3 13:50
+LastEditor:         Shpak Myroslav (amuerta)
+Reviewer:           Dmytro Humeniy
+RequirementBody:    "component called `firmware` controlls all circuity elements and sends data codes using described standart and uses GPIO as interface"
+RequirementStatus:  Open
