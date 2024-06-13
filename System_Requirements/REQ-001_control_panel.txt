@@ -1,4 +1,4 @@
-Name:               System support requirement
+Name:               System panel requirement
 Number:             SR_REQ-001
 Author:             Shpak Myroslav (amuerta)
 CreationDate:       12.06.2024 :: UTC/GMT+3 16:31
