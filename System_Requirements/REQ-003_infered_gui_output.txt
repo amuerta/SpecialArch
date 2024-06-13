@@ -1,0 +1,9 @@
+Name:               System support requirement
+Number:             SR_REQ-003
+Author:             Shpak Myroslav (amuerta)
+CreationDate:       13.06.2024 :: UTC/GMT+3 13:39
+LastModifiedDate:   13.06.2024 :: UTC/GMT+3 13:50
+LastEditor:         Shpak Myroslav (amuerta)
+Reviewer:           Dmytro Humeniy
+RequirementBody:    "output types should match the any of two types (numeric/bool), patterns: BOARD.[pin,lastanswer,ENGINE.rpm: numeric, ENGINE.rotdir: bool, ENGINE.voltage: numeric,ENGINE.pin: numeric,BUTTON.ispressed: bool,BUTTON.lastpressed: numeric"
+RequirementStatus:  Open
