@@ -5,5 +5,5 @@ CreationDate:       13.06.2024 :: UTC/GMT+3 13:35
 LastModifiedDate:   13.06.2024 :: UTC/GMT+3 13:50
 LastEditor:         Shpak Myroslav (amuerta)
 Reviewer:           Dmytro Humeniy
-RequirementBody:    "input types should match the following pattern: ASK.[rpm: int, rotdir: int, voltage: float, ledup: bool, blinkfreq: int, callback: bool]"
+RequirementBody:    "component with name `Bridge` manages and transfers data from and into microcontroller connect via USB protocol using libusb as a dependency"
 RequirementStatus:  Open
