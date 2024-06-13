@@ -1,4 +1,4 @@
-Name:               System support requirement
+Name:               System bridge requirement
 Number:             SR_REQ-002
 Author:             Shpak Myroslav (amuerta)
 CreationDate:       13.06.2024 :: UTC/GMT+3 13:35
