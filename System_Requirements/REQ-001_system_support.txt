@@ -5,5 +5,5 @@ CreationDate:       12.06.2024 :: UTC/GMT+3 16:31
 LastModifiedDate:   12.06.2024 :: UTC/GMT+3 16:33
 LastEditor:         Shpak Myroslav (amuerta)
 Reviewer:           Dmytro Humeniy
-RequirementBody:    "System implementation details on data transfer between different layers in the Supply Chain of developed Software"
+RequirementBody:    "System component with name `Control panel` has a specific role on managing user input trough graphcial user interface. This component reads output data from output interface file and writes to input interface file"
 RequirementStatus:  Open
